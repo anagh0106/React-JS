@@ -1,0 +1,8 @@
+.footer {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    text-align: end;
+    align-items: end;
+    height: 340px;
+}
